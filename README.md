@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Matheus Possemato Lopes
+- Matricula: 923502
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: página inicial de um site de Lives para desktop e mobile
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >> ![alt text](/public/images/desktop.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >> ![alt text](/public/images/mobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
