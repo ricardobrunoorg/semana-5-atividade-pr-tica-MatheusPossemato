@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #e5e7ea;
+}
+
+/* topo */
+.topbar {
+    height: 60px;
+    background: #d0d4d8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #7a8a99;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topbar nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.topbar input {
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid #999;
+    padding-left: 10px;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #7a8a99;
+    border-radius: 50%;
+}
+
+/* layout */
+.container {
+    display: flex;
+}
+
+/* sidebar */
+.sidebar {
+    width: 220px;
+    background: #dcdfe3;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #b5bcc4;
+    margin-right: 10px;
+}
+
+.line {
+    width: 120px;
+    height: 20px;
+    border-radius: 10px;
+    border: 1px solid #999;
+}
+
+.more {
+    margin-top: 20px;
+}
+
+/* conteúdo */
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+/* imagem grande */
+.big-image img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+/* cards */
+.row {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 250px;
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-info {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.small-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid #7a8a99;
+    margin-right: 10px;
+}
+
+.small-line {
+    width: 120px;
+    height: 25px;
+    border: 1px solid #999;
+}
